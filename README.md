@@ -11,14 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 %237AA2F7
 %2373DACA
 -->
 
-<link rel="stylesheet" href="style.css">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&color=%237AA2F7&vCenter=true&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
+<!-- I can't get rid of the border smh -->
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td>
