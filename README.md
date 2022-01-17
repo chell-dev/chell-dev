@@ -70,6 +70,8 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+![visit counter](https://count.getloli.com/get/@chell?theme=rule34)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chell-dev&show_icons=true&theme=tokyonight)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyoNight)
