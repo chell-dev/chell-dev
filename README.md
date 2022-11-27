@@ -25,7 +25,7 @@ Here are some ideas to get you started:
       <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/intellijidea.svg" />
     </td>
     <td>
-      I mostly code in kotlin and java
+      I like kotlin / java
     </td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
       <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/visualstudiocode.svg" />
     </td>
     <td>
-      I also know html, css and php unfortunately
+      I also know html, css, js and php unfortunately
     </td>
   </tr>
   <tr>
@@ -41,15 +41,7 @@ Here are some ideas to get you started:
       <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/adobeillustrator.svg" />
     </td>
     <td>
-      I study graphic design tho it may not look like it all the time
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/github.svg" />
-    </td>
-    <td>
-      Currently working on <a href="https://github.com/chell-dev/Samsara">Samsara</a> (block game mod for 1.18)
+      graphic design is my passion
     </td>
   </tr>
   <tr>
@@ -58,14 +50,6 @@ Here are some ideas to get you started:
     </td>
     <td>
       chell#2688
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/youtube.svg" />
-    </td>
-    <td>
-      <a href="https://www.youtube.com/channel/UCIZM_gGIcexRTZH9ymcj8zQ">gayming channel</a>
     </td>
   </tr>
 </table>
