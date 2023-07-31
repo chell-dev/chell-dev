@@ -3,11 +3,12 @@
 %2373DACA
 -->
 
-Currently working on: Blackout 3.0 ?!!
+Discord: girlc0ck (chell#2688)
 
-Discord: chell#2688
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyoNight)
 
-Profile visits:<br>
+Profile visits:
+
 ![Visit Counter](https://count.getloli.com/get/@chell?theme=rule34)
